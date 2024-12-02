@@ -1,0 +1,23 @@
+.auth-layout {
+    background: #f0f2f5;
+  }
+  
+  .auth-form-container {
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .auth-form-container h2 {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  .auth-form-container .ant-form-item-label {
+    font-weight: bold;
+  }
+  
+  .auth-form-container .ant-btn-primary {
+    margin-bottom: 16px;
+  }

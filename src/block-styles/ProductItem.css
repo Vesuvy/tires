@@ -1,0 +1,13 @@
+.product-item.first-in-group {
+    border-top: 2px solid #007bff;
+    }
+    
+    .product-item.last-in-group {
+    border-bottom: 2px solid #007bff;
+    }
+    
+    .opt-price {
+    font-size: 0.8em;
+    color: #6c757d;
+    display: block;
+    }
